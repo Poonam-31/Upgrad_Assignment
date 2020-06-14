@@ -7,3 +7,6 @@ Part A: Fixing Issues
 If you upload an image with the same exact title as of a previously uploaded image, it will get uploaded.
 But then, if you try to navigate to one of the images with the same title, the image uploader will display an error.
 Please fix this issue, so that the application should not show an error and take you to respective image’s page.
+
+Third Commit:
+After logging into the application, it is possible to edit/delete the image which is posted by some other user. This is a bug in the application. Now, fix this bug in the application, such that only the owner of the image can edit/delete the image.
